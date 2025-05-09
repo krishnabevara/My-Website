@@ -1,1 +1,41 @@
-# My-Website
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to Krishnaveni Bevara’s Resume</title>
+  <style>
+    h1 {
+      color: crimson;
+      text-align: center;
+      text-transform: uppercase;
+      text-decoration: underline;
+    }
+  </style>
+<style>
+.krishna{
+    	background-color:purple;
+	overflow:hidden;
+	}
+.krishna a {
+	float:left;
+	color:white;
+	padding:14px 20px;
+	text-decoration:none;
+	}
+.krishna a:hover {
+	 color:red;
+	}
+</style>
+
+</head>
+
+<body>
+  <h1>Resume</h1>
+<div class="krishna">
+<a href="home1.html">HOME</a>
+<a href="about.html">ABOUT</a>
+<a href="contact.html">CONTACT</a>
+</div>
+</body>
+</html>
+  
+ 
